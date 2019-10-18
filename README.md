@@ -112,26 +112,17 @@ Then add a title and description to your pull request that explains your preciou
 ## What to contribute :question:
 
 After making a branch with your username, checkout your branch.
-Create a file `<your_username>.md`.
 
-In the file put in your Name, Branch and Institution, and finally your interests/hobbies.
-Or simply copy paste the following section of code and edit it with your details.
-(You can put your GitHub or LinkedIn profile link in the portfolio if you don/t have one)
+Open the file called index.html and add the following changes after following the instructions in class.
 
 Format : 
 ```md
-# Swapnil Sinha
-
-## Academics: 
-#### Pursuing B.Tech in Computer Science Engineering
-#### Birla Institute of Technology, Mesra
-
-### Interests : 
-- Web Development
-- Competitive Programming
-
-### Portfolio :
-[siriuswapnil.github.io](http://siriuswapnil.github.io)
+<tr>
+<td>Swapnil Sinha</td>  //Name
+<td>BTECH/60014/18</td>  //Roll
+<td>CSE</td>             //Branch
+<td>reach_swapnil@outlook.com</td>  //Email
+</tr>
 
 
 ```
